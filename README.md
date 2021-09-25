@@ -114,7 +114,7 @@ Based on the hand computation presented above, we now know which type of content
 Figure  7
  </p>
 
-As seen in Figure 7 is an issue that is prevalent with the direct use of equals() for applications like these where recommendations are the main feature of the program. We can see that with the term “business” it is a relatively broad topic that should span terms such as “finance” or even “marketing” but with the direct use of equals() we can see that marketing is at 0% and finance is only at 52% which is wrong as it is passed by job offerings for the field of programming and developer. This is where the use of NLP is crucial as we can give a value to these words instead of directly giving them a value of 0. We can see in figure 13 that using the WuPalmer wordnet similarity in WS4J we are able to check for the relatedness between two words.
+As seen in Figure 7 is an issue that is prevalent with the direct use of equals() for applications like these where recommendations are the main feature of the program. We can see that with the term “business” it is a relatively broad topic that should span terms such as “finance” or even “marketing” but with the direct use of equals() we can see that marketing is at 0% and finance is only at 52% which is wrong as it is passed by job offerings for the field of programming and developer. This is where the use of NLP is crucial as we can give a value to these words instead of directly giving them a value of 0. We can see in figure 7 that using the WuPalmer wordnet similarity in WS4J we are able to check for the relatedness between two words.
 
 <p align="center">
    <img width="400" src="https://raw.githubusercontent.com/tyrone890123/Content-Based-Recommendation/main/assets/10.png"> 
