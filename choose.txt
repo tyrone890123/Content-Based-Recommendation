@@ -1,0 +1,17 @@
+	           Grad   WorkExp  Field    Pay
+Job Offer 1 	1   	1	    1	    1
+Job Offer 2 	1	    1	    1	    0
+Job Offer 3 	1	    1   	0	    1
+Job Offer 4 	1	    0	    1	    1
+Job Offer 5 	0	    1	    1	    1
+Job Offer 6 	1	    1	    0	    0
+Job Offer 7 	1   	0	    0	    1
+Job Offer 8 	0	    0	    1	    1
+Job Offer 9	    1	    0	    1	    0
+Job Offer 10	0	    1	    1	    0
+Job Offer 11	0	    1   	0	    1
+Job Offer 12	1	    0   	0	    0
+Job Offer 13	0   	1   	0	    0
+Job Offer 14	0	    0	    1	    0
+Job Offer 15	0   	0	    0	    1
+Job Offer 16	0	    0	    0	    0
