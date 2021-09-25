@@ -13,7 +13,7 @@
       <a href="#intro">Introduction</a>
     </li>
     <li>
-      <a href="#">Methodology</a>
+      <a href="#reqs">Methodology</a>
     </li>
       <li>
       <a href="#setup">Concepts</a>
@@ -24,7 +24,7 @@
 
 <h2 id="intro">Introduction</h2>
 
-Content based recommendation was used because this approach recommends the user the appropriate items through the user’s preferences, a user profile is made weighing the likes and dislikes of each attribute of an item and if they are similar it is recommended
+Content based recommendation was used because this approach recommends the user the appropriate items through the user’s preferences, a user profile is made weighing the likes and dislikes of each attribute of an item and if they are similar it is recommended to them.
 
 <h2 id="reqs">Methodology</h2>
 
